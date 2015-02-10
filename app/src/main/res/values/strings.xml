@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Photo Notes</string>
+    <string name="caption">Caption : </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_photo">AddPhoto</string>
+    <string name="title_activity_view_photo">ViewPhoto</string>
+    <string name="hello_world">Hello world!</string>
+    <color name="primary">#191FE0</color>
+    <color name="primary_dark">#1E22A6</color>
+    <color name="accent">#09DCEB</color>
+
+</resources>

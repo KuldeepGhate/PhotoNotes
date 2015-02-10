@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.kuldeep.photonotes.ViewPhoto">
+    <item
+        android:id="@+id/uninstall"
+        android:title="Uninstall"
+        android:showAsAction="never"
+        android:orderInCategory="100"
+        />
+</menu>
